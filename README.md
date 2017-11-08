@@ -20,6 +20,7 @@
 
 10.[加班统计](https://github.com/jacky1234/python_script/summaryOvertime.py)
 
+11.[Android换肤根据ui重命名脚本](https://github.com/jacky1234/python_script/AndroidSkinModifyfile.py)
 
 
 ### Thanks to :
